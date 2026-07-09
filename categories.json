@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-09T16:56:26.486Z",
+  "categories": [
+    {
+      "title": "个人资料 / 头像",
+      "slug": "profile-avatar",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "社交媒体帖子",
+      "slug": "social-media-post",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "信息图 / 教育视觉图",
+      "slug": "infographic-edu-visual",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "YouTube 缩略图",
+      "slug": "youtube-thumbnail",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "漫画 / 故事板",
+      "slug": "comic-storyboard",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "产品营销",
+      "slug": "product-marketing",
+      "group": "use-cases"
+    },
+    {
+      "title": "电商主图",
+      "slug": "ecommerce-main-image",
+      "group": "use-cases"
+    },
+    {
+      "title": "游戏素材",
+      "slug": "game-asset",
+      "group": "use-cases"
+    },
+    {
+      "title": "海报 / 传单",
+      "slug": "poster-flyer",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "App / 网页设计",
+      "slug": "app-web-design",
+      "group": "use-cases",
+      "featured": true
+    },
+    {
+      "title": "摄影",
+      "slug": "photography",
+      "group": "styles"
+    },
+    {
+      "title": "电影 / 电影剧照",
+      "slug": "cinematic-film-still",
+      "group": "styles"
+    },
+    {
+      "title": "动漫 / 漫画",
+      "slug": "anime-manga",
+      "group": "styles"
+    },
+    {
+      "title": "插画",
+      "slug": "illustration",
+      "group": "styles"
+    },
+    {
+      "title": "草图 / 线稿",
+      "slug": "sketch-line-art",
+      "group": "styles"
+    },
+    {
+      "title": "漫画 / 图画小说",
+      "slug": "comic-graphic-novel",
+      "group": "styles"
+    },
+    {
+      "title": "3D 渲染",
+      "slug": "3d-render",
+      "group": "styles"
+    },
+    {
+      "title": "Q 版 / Q 萌风",
+      "slug": "chibi-q-style",
+      "group": "styles"
+    },
+    {
+      "title": "等距",
+      "slug": "isometric",
+      "group": "styles"
+    },
+    {
+      "title": "像素艺术",
+      "slug": "pixel-art",
+      "group": "styles"
+    },
+    {
+      "title": "油画",
+      "slug": "oil-painting",
+      "group": "styles"
+    },
+    {
+      "title": "水彩画",
+      "slug": "watercolor",
+      "group": "styles"
+    },
+    {
+      "title": "水墨 / 中国风",
+      "slug": "ink-chinese-style",
+      "group": "styles"
+    },
+    {
+      "title": "复古 / 怀旧",
+      "slug": "retro-vintage",
+      "group": "styles"
+    },
+    {
+      "title": "赛博朋克 / 科幻",
+      "slug": "cyberpunk-sci-fi",
+      "group": "styles"
+    },
+    {
+      "title": "极简主义",
+      "slug": "minimalism",
+      "group": "styles"
+    },
+    {
+      "title": "人像 / 自拍",
+      "slug": "portrait-selfie",
+      "group": "subjects"
+    },
+    {
+      "title": "网红 / 模特",
+      "slug": "influencer-model",
+      "group": "subjects"
+    },
+    {
+      "title": "角色",
+      "slug": "character",
+      "group": "subjects"
+    },
+    {
+      "title": "团体 / 情侣",
+      "slug": "group-couple",
+      "group": "subjects"
+    },
+    {
+      "title": "产品",
+      "slug": "product",
+      "group": "subjects"
+    },
+    {
+      "title": "食品 / 饮料",
+      "slug": "food-drink",
+      "group": "subjects"
+    },
+    {
+      "title": "时尚单品",
+      "slug": "fashion-item",
+      "group": "subjects"
+    },
+    {
+      "title": "动物 / 生物",
+      "slug": "animal-creature",
+      "group": "subjects"
+    },
+    {
+      "title": "车辆",
+      "slug": "vehicle",
+      "group": "subjects"
+    },
+    {
+      "title": "建筑 / 室内设计",
+      "slug": "architecture-interior",
+      "group": "subjects"
+    },
+    {
+      "title": "风景 / 自然",
+      "slug": "landscape-nature",
+      "group": "subjects"
+    },
+    {
+      "title": "城市风光 / 街道",
+      "slug": "cityscape-street",
+      "group": "subjects"
+    },
+    {
+      "title": "图表",
+      "slug": "diagram-chart",
+      "group": "subjects"
+    },
+    {
+      "title": "文本 / 排版",
+      "slug": "text-typography",
+      "group": "subjects"
+    },
+    {
+      "title": "摘要 / 背景",
+      "slug": "abstract-background",
+      "group": "subjects"
+    },
+    {
+      "title": "电影级场景展示",
+      "slug": "cinematic-showcase",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 87,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "Vlog / 生活记录",
+      "slug": "social-lifestyle",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 88,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "短片",
+      "slug": "short-film",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 89,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "音乐视频",
+      "slug": "music-video",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 90,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "品牌 / 产品广告",
+      "slug": "brand-commercial",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 91,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "UGC / 口播广告",
+      "slug": "ugc-talking-head",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 92,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "讲解 / 教程",
+      "slug": "explainer-tutorial",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 93,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "频道片头 / 品牌素材",
+      "slug": "channel-intro",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 94,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "游戏宣传片 / PV",
+      "slug": "game-cinematic",
+      "group": "use-cases",
+      "featured": true,
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 95,
+      "parentSlug": "video-use-cases"
+    },
+    {
+      "title": "电影级写实风格",
+      "slug": "cinematic-realistic",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 96,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "奇幻 / 魔法",
+      "slug": "fantasy-magical",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 97,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "赛博朋克 / 科幻",
+      "slug": "cyberpunk-scifi",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 98,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "动漫",
+      "slug": "anime",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 99,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "复古 / 怀旧胶片",
+      "slug": "vintage-retro",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 100,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "超现实 / 梦境",
+      "slug": "surreal-dreamlike",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 101,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "纪录片",
+      "slug": "documentary",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 102,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "3D 卡通",
+      "slug": "3d-cartoon",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 103,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "2D 动画",
+      "slug": "2d-animation",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 104,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "中国水墨",
+      "slug": "chinese-ink",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 105,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "定格动画",
+      "slug": "stop-motion",
+      "group": "styles",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 106,
+      "parentSlug": "video-styles"
+    },
+    {
+      "title": "人物 / 角色",
+      "slug": "person-character",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 107,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "运动 / 动作",
+      "slug": "sports-action",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 108,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "自然 / 风景",
+      "slug": "nature-landscape",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 109,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "建筑 / 室内",
+      "slug": "architecture-interior",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 110,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "抽象 / VFX",
+      "slug": "abstract-vfx-v",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 111,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "城市 / 街景",
+      "slug": "cityscape-urban",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 112,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "动物 / 宠物",
+      "slug": "animal-pet",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 113,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "交通工具",
+      "slug": "vehicle-v",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 114,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "文字 / Logo",
+      "slug": "text-logo-v",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 115,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "人群 / 群体",
+      "slug": "crowd-group",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 116,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "美食 / 饮品",
+      "slug": "food-drink-v",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 117,
+      "parentSlug": "video-subjects"
+    },
+    {
+      "title": "产品",
+      "slug": "product-v",
+      "group": "subjects",
+      "sourceModel": "seedance-2.0",
+      "sourceCategoryId": 118,
+      "parentSlug": "video-subjects"
+    }
+  ]
+}

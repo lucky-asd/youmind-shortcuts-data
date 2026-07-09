@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 1,
+  "format": "youmind-extension-data-v1",
+  "generatedAt": "2026-07-09T16:56:26.486Z",
+  "sourceUpdatedAt": "2026-07-09T16:47:44.284Z",
+  "packageVersion": "20260709-075d8de795",
+  "itemCount": 31456,
+  "totalInSource": 31466,
+  "chunkStrategy": {
+    "type": "source-id-range",
+    "chunkSize": 1000,
+    "compression": "gzip-json",
+    "note": "首次安装下载全部分包；后续按 sha256 只下载新增或变化的分包。"
+  },
+  "categories": {
+    "path": "categories.json",
+    "relativePath": "categories.json",
+    "count": 73,
+    "bytes": 11401,
+    "sha256": "fbf536fc1596dc538ecc0f54775805998db0c0ef6332e702baf6bbacecf7a0f4"
+  },
+  "sources": [
+    {
+      "sourceModel": "gpt-image-2",
+      "sourceName": "GPT Image 2",
+      "itemCount": 12269,
+      "chunkSize": 1000,
+      "chunkCount": 13,
+      "chunks": [
+        {
+          "index": 0,
+          "path": "chunks/gpt-image-2/001-13440-14575-c7bc550f4ac3.json.gz",
+          "relativePath": "chunks/gpt-image-2/001-13440-14575-c7bc550f4ac3.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 13440,
+          "rangeEnd": 14575,
+          "bytes": 2504581,
+          "gzipBytes": 758118,
+          "sha256": "26f58df5fa5bc3fb40c6a9ca06c9cd284393f4aede5899db57f7cdba198f63da",
+          "rawSha256": "c7bc550f4ac39d409fcddc3feaa719cbf8fe14d11fd1b286aa2906ef0e149cb2"
+        },
+        {
+          "index": 1,
+          "path": "chunks/gpt-image-2/002-14576-15654-9c136076df59.json.gz",
+          "relativePath": "chunks/gpt-image-2/002-14576-15654-9c136076df59.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 14576,
+          "rangeEnd": 15654,
+          "bytes": 2677401,
+          "gzipBytes": 902812,
+          "sha256": "d493de431a4af52f2112265a35b8ee3844a9a9378f8773af8551ce32fa3563d6",
+          "rawSha256": "9c136076df5944258b299bcb5180ff79c1c5b3d232eab3bd7d816b6dfc79aa8c"
+        },
+        {
+          "index": 2,
+          "path": "chunks/gpt-image-2/003-15655-16789-e7b1c21953e2.json.gz",
+          "relativePath": "chunks/gpt-image-2/003-15655-16789-e7b1c21953e2.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 15655,
+          "rangeEnd": 16789,
+          "bytes": 2724349,
+          "gzipBytes": 917520,
+          "sha256": "f621c35970bf391e2f3d4730facfb0c895e566e05b175a81fe659adebc6166a3",
+          "rawSha256": "e7b1c21953e22870f85d8afd300dfefd03ae2852255a9f8c0b8c1a5b9b3c5af6"
+        },
+        {
+          "index": 3,
+          "path": "chunks/gpt-image-2/004-16790-17954-7c1ceb7a4c94.json.gz",
+          "relativePath": "chunks/gpt-image-2/004-16790-17954-7c1ceb7a4c94.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 16790,
+          "rangeEnd": 17954,
+          "bytes": 2617862,
+          "gzipBytes": 872381,
+          "sha256": "11de049a90d0075b1b3b6eda717e7e780c76fdabf1f50f48a20a5a71c446bea8",
+          "rawSha256": "7c1ceb7a4c94ddfec0282d0cb609fd191d6094682c0e72108907e4997b333566"
+        },
+        {
+          "index": 4,
+          "path": "chunks/gpt-image-2/005-17955-19230-e47395aac92e.json.gz",
+          "relativePath": "chunks/gpt-image-2/005-17955-19230-e47395aac92e.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 17955,
+          "rangeEnd": 19230,
+          "bytes": 2778549,
+          "gzipBytes": 895174,
+          "sha256": "860cd47e9449345c18b09c73e32d9d2e1b5ec48a3f36e7f605c51b27db6f641d",
+          "rawSha256": "e47395aac92e7572e4768ed6593fba39e01395e4b963bb26a2149159541efc79"
+        },
+        {
+          "index": 5,
+          "path": "chunks/gpt-image-2/006-19231-20473-1b5de0dbe32a.json.gz",
+          "relativePath": "chunks/gpt-image-2/006-19231-20473-1b5de0dbe32a.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 19231,
+          "rangeEnd": 20473,
+          "bytes": 2694358,
+          "gzipBytes": 906422,
+          "sha256": "a095951efb607dc8de6df4dc04e7681f6b6909ef71325ce328c8a93617e29f57",
+          "rawSha256": "1b5de0dbe32a19f9a8a21572c09e2734a4f913b9857b9d1f651eb2844f8dbc23"
+        },
+        {
+          "index": 6,
+          "path": "chunks/gpt-image-2/007-20474-21659-d4a6036a9ac4.json.gz",
+          "relativePath": "chunks/gpt-image-2/007-20474-21659-d4a6036a9ac4.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 20474,
+          "rangeEnd": 21659,
+          "bytes": 2656512,
+          "gzipBytes": 881813,
+          "sha256": "e8215cdab2ac6f11a785ecaed38febfe3f8511d33feb2f9b137fb7c6cfcf0fdc",
+          "rawSha256": "d4a6036a9ac4f7facabe7ee0fc577409e6ee75fb52aabe0b8de094fccc0210b6"
+        },
+        {
+          "index": 7,
+          "path": "chunks/gpt-image-2/008-21660-22916-4bdbdd525f3f.json.gz",
+          "relativePath": "chunks/gpt-image-2/008-21660-22916-4bdbdd525f3f.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 21660,
+          "rangeEnd": 22916,
+          "bytes": 2476917,
+          "gzipBytes": 820754,
+          "sha256": "da83ec07815031c9fc7dc14349116a5eb1f899ffba88e071ede6ec88149c47a6",
+          "rawSha256": "4bdbdd525f3f986b7a30faa02ea1362b6febd89ec7e6a8a96e570c696b3c46a0"
+        },
+        {
+          "index": 8,
+          "path": "chunks/gpt-image-2/009-22917-24170-192087e0e448.json.gz",
+          "relativePath": "chunks/gpt-image-2/009-22917-24170-192087e0e448.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 22917,
+          "rangeEnd": 24170,
+          "bytes": 2466354,
+          "gzipBytes": 821154,
+          "sha256": "e55b3bc2ca3be0208e078c0b54a3f59cf7f35fee48e592c703c7af15e87d7045",
+          "rawSha256": "192087e0e448971f773b661b2a2862bfd2a23df379d59c821c0cc85967a7a041"
+        },
+        {
+          "index": 9,
+          "path": "chunks/gpt-image-2/010-24171-25441-8580945b72cd.json.gz",
+          "relativePath": "chunks/gpt-image-2/010-24171-25441-8580945b72cd.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 24171,
+          "rangeEnd": 25441,
+          "bytes": 2494015,
+          "gzipBytes": 832457,
+          "sha256": "9c0286205b4ae119bf82a3276e512c8e4c830377e7d79cce520e8ed6def355d1",
+          "rawSha256": "8580945b72cd56e5b006bc041cf186360cb26a2955664c6b23e9d8a7a69d3186"
+        },
+        {
+          "index": 10,
+          "path": "chunks/gpt-image-2/011-25442-26667-c57613c10dce.json.gz",
+          "relativePath": "chunks/gpt-image-2/011-25442-26667-c57613c10dce.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 25442,
+          "rangeEnd": 26667,
+          "bytes": 2295059,
+          "gzipBytes": 746321,
+          "sha256": "3d89058673df15acb881b36ddc84738c4506318db5cd9d77693c4a65857eda4f",
+          "rawSha256": "c57613c10dce9864b761cccb76b664127ffeba943776ecd4f55046be545127c4"
+        },
+        {
+          "index": 11,
+          "path": "chunks/gpt-image-2/012-26668-27782-a16ebf3ab15d.json.gz",
+          "relativePath": "chunks/gpt-image-2/012-26668-27782-a16ebf3ab15d.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 26668,
+          "rangeEnd": 27782,
+          "bytes": 2509538,
+          "gzipBytes": 836750,
+          "sha256": "4dd636c81d5629972effc9b89fdc7887e9d6dc592dbd8572b3a2be3dee895faa",
+          "rawSha256": "a16ebf3ab15d34cc6974d615d5055286c79c3311c5d72dbaf430e17681c7db12"
+        },
+        {
+          "index": 12,
+          "path": "chunks/gpt-image-2/013-27783-28079-4e0670c10240.json.gz",
+          "relativePath": "chunks/gpt-image-2/013-27783-28079-4e0670c10240.json.gz",
+          "itemCount": 269,
+          "rangeStart": 27783,
+          "rangeEnd": 28079,
+          "bytes": 760883,
+          "gzipBytes": 257116,
+          "sha256": "cd18a84bfa10e9cc9ebfcfa8b1b4567c7ef35e3a614c074434f5259ee8ff634c",
+          "rawSha256": "4e0670c10240918e51cb2405648637f5d0e94ece430b9857d1966d3e3a7539bf"
+        }
+      ]
+    },
+    {
+      "sourceModel": "nano-banana-pro",
+      "sourceName": "Nano Banana Pro",
+      "itemCount": 14714,
+      "chunkSize": 1000,
+      "chunkCount": 15,
+      "chunks": [
+        {
+          "index": 0,
+          "path": "chunks/nano-banana-pro/001-5-1399-bc26f79a6724.json.gz",
+          "relativePath": "chunks/nano-banana-pro/001-5-1399-bc26f79a6724.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 5,
+          "rangeEnd": 1399,
+          "bytes": 1608207,
+          "gzipBytes": 457474,
+          "sha256": "38d457e79aafbba1c0fd15fd8237216900f9958308670912efc79772e76a04c6",
+          "rawSha256": "bc26f79a6724337d1ddfd8c8bd3d8e52b9e605538db5e5ffbecbe02ff5870654"
+        },
+        {
+          "index": 1,
+          "path": "chunks/nano-banana-pro/002-1400-2791-6a2a1bc1e0e2.json.gz",
+          "relativePath": "chunks/nano-banana-pro/002-1400-2791-6a2a1bc1e0e2.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 1400,
+          "rangeEnd": 2791,
+          "bytes": 2273799,
+          "gzipBytes": 687387,
+          "sha256": "e03463c535668a6029eaf6b54cca87b032d4d53288a186a3e3b1a40194695055",
+          "rawSha256": "6a2a1bc1e0e2183e305f83c28fb99025c0c363a4e3fad9892dbfc56e338385ef"
+        },
+        {
+          "index": 2,
+          "path": "chunks/nano-banana-pro/003-2792-3812-c56d2550d67d.json.gz",
+          "relativePath": "chunks/nano-banana-pro/003-2792-3812-c56d2550d67d.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 2792,
+          "rangeEnd": 3812,
+          "bytes": 2609429,
+          "gzipBytes": 794838,
+          "sha256": "7cd8040401a487c072f295b3795fc0d1a32fdcff0767472cba67c89c87eb079d",
+          "rawSha256": "c56d2550d67dcac1832b39a43030530a151622f7b944d57375bc2c64666a582f"
+        },
+        {
+          "index": 3,
+          "path": "chunks/nano-banana-pro/004-3813-4812-6eb54ac7b156.json.gz",
+          "relativePath": "chunks/nano-banana-pro/004-3813-4812-6eb54ac7b156.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 3813,
+          "rangeEnd": 4812,
+          "bytes": 2551046,
+          "gzipBytes": 792332,
+          "sha256": "25467efcb7f10f7e2ac913e8198f35acc355e4a612301c312e85ea8e1018d969",
+          "rawSha256": "6eb54ac7b15619f473dc416eba3f04600df6b22facd699d656a357bc860d0a20"
+        },
+        {
+          "index": 4,
+          "path": "chunks/nano-banana-pro/005-4813-5827-ce4ba0b4aa7b.json.gz",
+          "relativePath": "chunks/nano-banana-pro/005-4813-5827-ce4ba0b4aa7b.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 4813,
+          "rangeEnd": 5827,
+          "bytes": 2577071,
+          "gzipBytes": 807130,
+          "sha256": "af05549ea21bfba0826ea3e2104ae1ec6d90cccbcc5e650c809dc4f80f5f220b",
+          "rawSha256": "ce4ba0b4aa7bffd42539d2434b8a54fe0691df113ba9b68be9793aa0e698323d"
+        },
+        {
+          "index": 5,
+          "path": "chunks/nano-banana-pro/006-5828-6828-f50016c70831.json.gz",
+          "relativePath": "chunks/nano-banana-pro/006-5828-6828-f50016c70831.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 5828,
+          "rangeEnd": 6828,
+          "bytes": 2844702,
+          "gzipBytes": 876295,
+          "sha256": "b78db172791a27988896eefacb1af193f366a0ceae3b5dc6b5e68a6a4b7ef85c",
+          "rawSha256": "f50016c708311be7511c2eb51e4983c24221297bcd6b577849f99f42ac68f5da"
+        },
+        {
+          "index": 6,
+          "path": "chunks/nano-banana-pro/007-6829-7829-bc9265f67335.json.gz",
+          "relativePath": "chunks/nano-banana-pro/007-6829-7829-bc9265f67335.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 6829,
+          "rangeEnd": 7829,
+          "bytes": 2618607,
+          "gzipBytes": 785885,
+          "sha256": "bc8383e55898ef91c20f3f2ef2b17d94c208012ff65193be9733b906fc107f34",
+          "rawSha256": "bc9265f673359cf08d59da2f0a98f2e44f33173432c2c0fce45fc38cd8d9fa44"
+        },
+        {
+          "index": 7,
+          "path": "chunks/nano-banana-pro/008-7830-8829-832fb822edde.json.gz",
+          "relativePath": "chunks/nano-banana-pro/008-7830-8829-832fb822edde.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 7830,
+          "rangeEnd": 8829,
+          "bytes": 2616138,
+          "gzipBytes": 797355,
+          "sha256": "6052be88cdc5c11f327874f22f925b84ae2d3691fec138768c99da64e3fdc97f",
+          "rawSha256": "832fb822edde860b2d5e606c286c05a84ab0ab81167015d67305149385280da1"
+        },
+        {
+          "index": 8,
+          "path": "chunks/nano-banana-pro/009-8830-9833-d55a1a75c7b9.json.gz",
+          "relativePath": "chunks/nano-banana-pro/009-8830-9833-d55a1a75c7b9.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 8830,
+          "rangeEnd": 9833,
+          "bytes": 2549270,
+          "gzipBytes": 771814,
+          "sha256": "b9c5e33d56e121f896a98a22643803ffc02327e8b05e989d37bd26ca115b3e83",
+          "rawSha256": "d55a1a75c7b9d1caf00d82bd7db0c04a42c35d067d33bc81d9250e4a0afadc3a"
+        },
+        {
+          "index": 9,
+          "path": "chunks/nano-banana-pro/010-9834-10833-e70176527432.json.gz",
+          "relativePath": "chunks/nano-banana-pro/010-9834-10833-e70176527432.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 9834,
+          "rangeEnd": 10833,
+          "bytes": 2472150,
+          "gzipBytes": 749251,
+          "sha256": "f38031b13d0740d0d5aa919a106ec04a8d98c7866fd76a2cabccf80bd49c84f8",
+          "rawSha256": "e70176527432bc475d1177c6fbec5bdd6a9e3512deda57ad5cdf867a2f09ebe8"
+        },
+        {
+          "index": 10,
+          "path": "chunks/nano-banana-pro/011-10834-11833-0d8e65804ca0.json.gz",
+          "relativePath": "chunks/nano-banana-pro/011-10834-11833-0d8e65804ca0.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 10834,
+          "rangeEnd": 11833,
+          "bytes": 2424787,
+          "gzipBytes": 745032,
+          "sha256": "2760da6f7f23942494dacad88c84373df55773682611a47d6465c9f7425992c0",
+          "rawSha256": "0d8e65804ca06fb17919cf9188ac7ea69fc8c9540168c44d8ebe242b3b310257"
+        },
+        {
+          "index": 11,
+          "path": "chunks/nano-banana-pro/012-11834-12920-b38c90545c55.json.gz",
+          "relativePath": "chunks/nano-banana-pro/012-11834-12920-b38c90545c55.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 11834,
+          "rangeEnd": 12920,
+          "bytes": 2420084,
+          "gzipBytes": 725674,
+          "sha256": "d2cc158cc695adf9573ed21c67ff42694447a461f74ef680105931ca940feebb",
+          "rawSha256": "b38c90545c55ba33be2f1c730aaef013cae6b1c3f540c56b8ad190d03cee454b"
+        },
+        {
+          "index": 12,
+          "path": "chunks/nano-banana-pro/013-12921-18021-f47d3f3b85a2.json.gz",
+          "relativePath": "chunks/nano-banana-pro/013-12921-18021-f47d3f3b85a2.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 12921,
+          "rangeEnd": 18021,
+          "bytes": 2049852,
+          "gzipBytes": 608892,
+          "sha256": "8b2efe69fffe88111201196b99c791884cdeec82b935dc20703e78644b34b43d",
+          "rawSha256": "f47d3f3b85a2bcb7f9199cd54ee79ece59b2a837a91b4ca973e9494ca1e7ff1e"
+        },
+        {
+          "index": 13,
+          "path": "chunks/nano-banana-pro/014-18022-23412-4878d81d4a21.json.gz",
+          "relativePath": "chunks/nano-banana-pro/014-18022-23412-4878d81d4a21.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 18022,
+          "rangeEnd": 23412,
+          "bytes": 2109139,
+          "gzipBytes": 643605,
+          "sha256": "abb895cbbe4e3b0d41e381dd012cf01c71f34696a86b5b21d0f6276a1710da7f",
+          "rawSha256": "4878d81d4a211c3e7c2e5c972fe0bd286f10fd33093ebb68d10535dc22cb9409"
+        },
+        {
+          "index": 14,
+          "path": "chunks/nano-banana-pro/015-23413-27863-1590d95cbc95.json.gz",
+          "relativePath": "chunks/nano-banana-pro/015-23413-27863-1590d95cbc95.json.gz",
+          "itemCount": 714,
+          "rangeStart": 23413,
+          "rangeEnd": 27863,
+          "bytes": 1496708,
+          "gzipBytes": 455997,
+          "sha256": "9c157b7c23fb9c972bea0dd4b12170a4fd4d423ef68f006068d774c1469593fa",
+          "rawSha256": "1590d95cbc95e7aafaaa9006e641d6e45cfe0b89136f245e79d07d298e7b4c98"
+        }
+      ]
+    },
+    {
+      "sourceModel": "seedance-2.0",
+      "sourceName": "Seedance 2.0",
+      "itemCount": 4473,
+      "chunkSize": 1000,
+      "chunkCount": 5,
+      "chunks": [
+        {
+          "index": 0,
+          "path": "chunks/seedance-2.0/001-25-1996-030a97032945.json.gz",
+          "relativePath": "chunks/seedance-2.0/001-25-1996-030a97032945.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 25,
+          "rangeEnd": 1996,
+          "bytes": 1954235,
+          "gzipBytes": 649272,
+          "sha256": "3a094d51284c2813e7835e93586846c57fd3bd04307d0ed2581619b4cc4bb9b7",
+          "rawSha256": "030a97032945ae1f59d8ee61296b778d884b5cb38127ddb8645799404ef7ac90"
+        },
+        {
+          "index": 1,
+          "path": "chunks/seedance-2.0/002-1997-3517-b1a6305802b6.json.gz",
+          "relativePath": "chunks/seedance-2.0/002-1997-3517-b1a6305802b6.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 1997,
+          "rangeEnd": 3517,
+          "bytes": 2060962,
+          "gzipBytes": 699679,
+          "sha256": "0a4a781cf072aec789e83168d616ab96fe56f98168ba6836d67f36d66176e739",
+          "rawSha256": "b1a6305802b6b3973417e6f8604a334c2754023e681dc93137626ed026bb86f1"
+        },
+        {
+          "index": 2,
+          "path": "chunks/seedance-2.0/003-3518-4851-8e109c3f432f.json.gz",
+          "relativePath": "chunks/seedance-2.0/003-3518-4851-8e109c3f432f.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 3518,
+          "rangeEnd": 4851,
+          "bytes": 2252352,
+          "gzipBytes": 782744,
+          "sha256": "3098e859d8773aa0a4279b5d4788df331a05bdc3fc1f78f7927808dc35207219",
+          "rawSha256": "8e109c3f432fdfbab45d9665c7f4dad10ed49ef9ee038dbb9d717c4e1c801304"
+        },
+        {
+          "index": 3,
+          "path": "chunks/seedance-2.0/004-4852-6336-669376de9a12.json.gz",
+          "relativePath": "chunks/seedance-2.0/004-4852-6336-669376de9a12.json.gz",
+          "itemCount": 1000,
+          "rangeStart": 4852,
+          "rangeEnd": 6336,
+          "bytes": 2428640,
+          "gzipBytes": 861502,
+          "sha256": "6183861759e5020b9cce47d983f69c05f39064338359a4b3250b95d0fc6dce46",
+          "rawSha256": "669376de9a129cfdc05299c2dab24f454d219be9df07fb0d7a314173758398f4"
+        },
+        {
+          "index": 4,
+          "path": "chunks/seedance-2.0/005-6337-6971-3253f0ba831a.json.gz",
+          "relativePath": "chunks/seedance-2.0/005-6337-6971-3253f0ba831a.json.gz",
+          "itemCount": 473,
+          "rangeStart": 6337,
+          "rangeEnd": 6971,
+          "bytes": 1251610,
+          "gzipBytes": 451827,
+          "sha256": "3f385694f001ba8cb475e44926167377937a99635cb1b1b4fbe7d3b617352fab",
+          "rawSha256": "3253f0ba831abfbacb55365f1afb9b2254f88343e8b85764ccf73bed865e4475"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "rawBytes": 76825166,
+    "gzipBytes": 24592777
+  }
+}
