@@ -1,6 +1,6 @@
 {
-  "manifest": "manifest.json",
-  "packageVersion": "20260710-b72ab4f756",
-  "generatedAt": "2026-07-10T17:41:44.330Z",
+  "manifest": "https://raw.githubusercontent.com/lucky-asd/youmind-shortcuts-data/main/manifest.json",
+  "packageVersion": "v1-2595df52f3c64ae7",
+  "generatedAt": "2026-07-10T18:37:04.685Z",
   "itemCount": 31508
 }
