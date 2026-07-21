@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "format": "youmind-extension-data-v2",
-  "generatedAt": "2026-07-21T10:55:29.501Z",
-  "sourceUpdatedAt": "2026-07-21T10:55:16.559Z",
-  "packageVersion": "v2-6e2161b8160ec7b2",
+  "generatedAt": "2026-07-21T23:02:54.755Z",
+  "sourceUpdatedAt": "2026-07-21T23:02:41.747Z",
+  "packageVersion": "v2-5987c1b419e37a17",
   "itemCount": 33233,
   "totalInSource": 33242,
   "chunkStrategy": {
@@ -33,33 +33,33 @@
       "sources": [
         {
           "sourceModel": "gpt-image-2",
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/category-bindings--gpt-image-2-a86f42bab03f.json.gz",
-          "relativePath": "overlays/category-bindings/gpt-image-2-a86f42bab03f.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/category-bindings--gpt-image-2-6b370ee16ddf.json.gz",
+          "relativePath": "overlays/category-bindings/gpt-image-2-6b370ee16ddf.json.gz",
           "itemCount": 13378,
-          "bytes": 4994754,
-          "gzipBytes": 252806,
-          "sha256": "6ab674fd25c2b7a53e12dd908d7e0b7f5d42a1e375d4067ed80c3f25bb6e5b7d",
-          "rawSha256": "a86f42bab03f4a8918dea6a33dc6140864017cc9727356a79352bacabfd3ba66"
+          "bytes": 5000025,
+          "gzipBytes": 252923,
+          "sha256": "583cf8f6b22baa25e4cd2600163eaa2ea41b973f2f70216c49ab27e3d35ba67f",
+          "rawSha256": "6b370ee16ddf4a7b0c801200321b176e0dc2f4aefb51a101634c4b27385aef62"
         },
         {
           "sourceModel": "nano-banana-pro",
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/category-bindings--nano-banana-pro-5a01760690e9.json.gz",
-          "relativePath": "overlays/category-bindings/nano-banana-pro-5a01760690e9.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/category-bindings--nano-banana-pro-058afbb8818d.json.gz",
+          "relativePath": "overlays/category-bindings/nano-banana-pro-058afbb8818d.json.gz",
           "itemCount": 14879,
-          "bytes": 2266891,
-          "gzipBytes": 58973,
-          "sha256": "49d22be662bbeb9e70811033fbc6a6eb0cb1ce826fa4030c6cba0e932d1f7932",
-          "rawSha256": "5a01760690e94dbc2c7fcde8a82eaeea14043b73523fba01ea99e6d8fdf5c924"
+          "bytes": 2294923,
+          "gzipBytes": 59814,
+          "sha256": "c9daf84e34eb3136c5e8b417e17e9bb2b0207ebf5658e57bcba22b073ca8f0c5",
+          "rawSha256": "058afbb8818dfde3b6a06ab1903e0e20300fbc3ef95dc4e9fc155059890882b1"
         },
         {
           "sourceModel": "seedance-2.0",
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/category-bindings--seedance-2.0-b3c5382bc48d.json.gz",
-          "relativePath": "overlays/category-bindings/seedance-2.0-b3c5382bc48d.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/category-bindings--seedance-2.0-b5018ffff376.json.gz",
+          "relativePath": "overlays/category-bindings/seedance-2.0-b5018ffff376.json.gz",
           "itemCount": 4976,
-          "bytes": 770542,
-          "gzipBytes": 17411,
-          "sha256": "4769d43d11e4974f652d0a65bb4c0cf35642e38210e4a25f93363264916cc84d",
-          "rawSha256": "b3c5382bc48de7fe4b26cba8e86dc1a6a5706c5895da694b6a4d02fcc9798d1a"
+          "bytes": 775000,
+          "gzipBytes": 17451,
+          "sha256": "6349c7d5477c3a7d45c9e7f5db637fb775afb4fcc8c03bfef4e402606c25e49d",
+          "rawSha256": "b5018ffff37620f0f4b000aa082dbbacc881cf7f2da60ff9b121dbd9ecaf8208"
         }
       ]
     }
@@ -74,7 +74,7 @@
       "chunks": [
         {
           "index": 0,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--001-13440-14575-a1de64e68a64.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--001-13440-14575-a1de64e68a64.json.gz",
           "relativePath": "chunks/gpt-image-2/001-13440-14575-a1de64e68a64.json.gz",
           "itemCount": 1000,
           "rangeStart": 13440,
@@ -86,7 +86,7 @@
         },
         {
           "index": 1,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--002-14576-15654-e1fa36d92364.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--002-14576-15654-e1fa36d92364.json.gz",
           "relativePath": "chunks/gpt-image-2/002-14576-15654-e1fa36d92364.json.gz",
           "itemCount": 1000,
           "rangeStart": 14576,
@@ -98,7 +98,7 @@
         },
         {
           "index": 2,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--003-15655-16789-af0bb5100a9f.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--003-15655-16789-af0bb5100a9f.json.gz",
           "relativePath": "chunks/gpt-image-2/003-15655-16789-af0bb5100a9f.json.gz",
           "itemCount": 1000,
           "rangeStart": 15655,
@@ -110,7 +110,7 @@
         },
         {
           "index": 3,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--004-16790-17954-116014673c58.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--004-16790-17954-116014673c58.json.gz",
           "relativePath": "chunks/gpt-image-2/004-16790-17954-116014673c58.json.gz",
           "itemCount": 1000,
           "rangeStart": 16790,
@@ -122,7 +122,7 @@
         },
         {
           "index": 4,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--005-17955-19230-0c6139c0e363.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--005-17955-19230-0c6139c0e363.json.gz",
           "relativePath": "chunks/gpt-image-2/005-17955-19230-0c6139c0e363.json.gz",
           "itemCount": 1000,
           "rangeStart": 17955,
@@ -134,7 +134,7 @@
         },
         {
           "index": 5,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--006-19231-20473-e949c508d2ec.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--006-19231-20473-e949c508d2ec.json.gz",
           "relativePath": "chunks/gpt-image-2/006-19231-20473-e949c508d2ec.json.gz",
           "itemCount": 1000,
           "rangeStart": 19231,
@@ -146,7 +146,7 @@
         },
         {
           "index": 6,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--007-20474-21659-cf3ea5b66ad0.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--007-20474-21659-cf3ea5b66ad0.json.gz",
           "relativePath": "chunks/gpt-image-2/007-20474-21659-cf3ea5b66ad0.json.gz",
           "itemCount": 1000,
           "rangeStart": 20474,
@@ -158,7 +158,7 @@
         },
         {
           "index": 7,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--008-21660-22916-2837ad1838c5.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--008-21660-22916-2837ad1838c5.json.gz",
           "relativePath": "chunks/gpt-image-2/008-21660-22916-2837ad1838c5.json.gz",
           "itemCount": 1000,
           "rangeStart": 21660,
@@ -170,7 +170,7 @@
         },
         {
           "index": 8,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--009-22917-24170-bc43c59fd42a.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--009-22917-24170-bc43c59fd42a.json.gz",
           "relativePath": "chunks/gpt-image-2/009-22917-24170-bc43c59fd42a.json.gz",
           "itemCount": 1000,
           "rangeStart": 22917,
@@ -182,7 +182,7 @@
         },
         {
           "index": 9,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--010-24171-25441-bf39bbb5b774.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--010-24171-25441-bf39bbb5b774.json.gz",
           "relativePath": "chunks/gpt-image-2/010-24171-25441-bf39bbb5b774.json.gz",
           "itemCount": 1000,
           "rangeStart": 24171,
@@ -194,7 +194,7 @@
         },
         {
           "index": 10,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--011-25442-26667-c7233f02430c.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--011-25442-26667-c7233f02430c.json.gz",
           "relativePath": "chunks/gpt-image-2/011-25442-26667-c7233f02430c.json.gz",
           "itemCount": 1000,
           "rangeStart": 25442,
@@ -206,7 +206,7 @@
         },
         {
           "index": 11,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--012-26668-27782-a245a63e8576.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--012-26668-27782-a245a63e8576.json.gz",
           "relativePath": "chunks/gpt-image-2/012-26668-27782-a245a63e8576.json.gz",
           "itemCount": 1000,
           "rangeStart": 26668,
@@ -218,7 +218,7 @@
         },
         {
           "index": 12,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--013-27783-28897-519321f330e5.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--013-27783-28897-519321f330e5.json.gz",
           "relativePath": "chunks/gpt-image-2/013-27783-28897-519321f330e5.json.gz",
           "itemCount": 1000,
           "rangeStart": 27783,
@@ -230,7 +230,7 @@
         },
         {
           "index": 13,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/gpt-image-2--014-28898-29345-5b6c47bf312a.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/gpt-image-2--014-28898-29345-5b6c47bf312a.json.gz",
           "relativePath": "chunks/gpt-image-2/014-28898-29345-5b6c47bf312a.json.gz",
           "itemCount": 378,
           "rangeStart": 28898,
@@ -251,7 +251,7 @@
       "chunks": [
         {
           "index": 0,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--001-5-1399-2050c962eae0.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--001-5-1399-2050c962eae0.json.gz",
           "relativePath": "chunks/nano-banana-pro/001-5-1399-2050c962eae0.json.gz",
           "itemCount": 1000,
           "rangeStart": 5,
@@ -263,7 +263,7 @@
         },
         {
           "index": 1,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--002-1400-2791-c270725ee66c.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--002-1400-2791-c270725ee66c.json.gz",
           "relativePath": "chunks/nano-banana-pro/002-1400-2791-c270725ee66c.json.gz",
           "itemCount": 1000,
           "rangeStart": 1400,
@@ -275,7 +275,7 @@
         },
         {
           "index": 2,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--003-2792-3812-692033702a1f.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--003-2792-3812-692033702a1f.json.gz",
           "relativePath": "chunks/nano-banana-pro/003-2792-3812-692033702a1f.json.gz",
           "itemCount": 1000,
           "rangeStart": 2792,
@@ -287,7 +287,7 @@
         },
         {
           "index": 3,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--004-3813-4812-6673ed0aac4b.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--004-3813-4812-6673ed0aac4b.json.gz",
           "relativePath": "chunks/nano-banana-pro/004-3813-4812-6673ed0aac4b.json.gz",
           "itemCount": 1000,
           "rangeStart": 3813,
@@ -299,7 +299,7 @@
         },
         {
           "index": 4,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--005-4813-5827-fa358dd76fcf.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--005-4813-5827-fa358dd76fcf.json.gz",
           "relativePath": "chunks/nano-banana-pro/005-4813-5827-fa358dd76fcf.json.gz",
           "itemCount": 1000,
           "rangeStart": 4813,
@@ -311,7 +311,7 @@
         },
         {
           "index": 5,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--006-5828-6828-ba53f25e0d44.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--006-5828-6828-ba53f25e0d44.json.gz",
           "relativePath": "chunks/nano-banana-pro/006-5828-6828-ba53f25e0d44.json.gz",
           "itemCount": 1000,
           "rangeStart": 5828,
@@ -323,7 +323,7 @@
         },
         {
           "index": 6,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--007-6829-7829-3760bf9edfb2.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--007-6829-7829-3760bf9edfb2.json.gz",
           "relativePath": "chunks/nano-banana-pro/007-6829-7829-3760bf9edfb2.json.gz",
           "itemCount": 1000,
           "rangeStart": 6829,
@@ -335,7 +335,7 @@
         },
         {
           "index": 7,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--008-7830-8829-3109e0d3b7ad.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--008-7830-8829-3109e0d3b7ad.json.gz",
           "relativePath": "chunks/nano-banana-pro/008-7830-8829-3109e0d3b7ad.json.gz",
           "itemCount": 1000,
           "rangeStart": 7830,
@@ -347,7 +347,7 @@
         },
         {
           "index": 8,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--009-8830-9833-0951084c4429.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--009-8830-9833-0951084c4429.json.gz",
           "relativePath": "chunks/nano-banana-pro/009-8830-9833-0951084c4429.json.gz",
           "itemCount": 1000,
           "rangeStart": 8830,
@@ -359,7 +359,7 @@
         },
         {
           "index": 9,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--010-9834-10833-8cc7cc436eea.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--010-9834-10833-8cc7cc436eea.json.gz",
           "relativePath": "chunks/nano-banana-pro/010-9834-10833-8cc7cc436eea.json.gz",
           "itemCount": 1000,
           "rangeStart": 9834,
@@ -371,7 +371,7 @@
         },
         {
           "index": 10,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--011-10834-11833-a8b4215533d5.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--011-10834-11833-a8b4215533d5.json.gz",
           "relativePath": "chunks/nano-banana-pro/011-10834-11833-a8b4215533d5.json.gz",
           "itemCount": 1000,
           "rangeStart": 10834,
@@ -383,7 +383,7 @@
         },
         {
           "index": 11,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--012-11834-12920-c70bc6c5f80a.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--012-11834-12920-c70bc6c5f80a.json.gz",
           "relativePath": "chunks/nano-banana-pro/012-11834-12920-c70bc6c5f80a.json.gz",
           "itemCount": 1000,
           "rangeStart": 11834,
@@ -395,7 +395,7 @@
         },
         {
           "index": 12,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--013-12921-18021-b4cf2849e660.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--013-12921-18021-b4cf2849e660.json.gz",
           "relativePath": "chunks/nano-banana-pro/013-12921-18021-b4cf2849e660.json.gz",
           "itemCount": 1000,
           "rangeStart": 12921,
@@ -407,7 +407,7 @@
         },
         {
           "index": 13,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--014-18022-23412-f57dd7547559.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--014-18022-23412-f57dd7547559.json.gz",
           "relativePath": "chunks/nano-banana-pro/014-18022-23412-f57dd7547559.json.gz",
           "itemCount": 1000,
           "rangeStart": 18022,
@@ -419,7 +419,7 @@
         },
         {
           "index": 14,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/nano-banana-pro--015-23413-29275-46c8d8732d84.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/nano-banana-pro--015-23413-29275-46c8d8732d84.json.gz",
           "relativePath": "chunks/nano-banana-pro/015-23413-29275-46c8d8732d84.json.gz",
           "itemCount": 879,
           "rangeStart": 23413,
@@ -440,7 +440,7 @@
       "chunks": [
         {
           "index": 0,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/seedance-2.0--001-25-1996-17ade18d2243.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/seedance-2.0--001-25-1996-17ade18d2243.json.gz",
           "relativePath": "chunks/seedance-2.0/001-25-1996-17ade18d2243.json.gz",
           "itemCount": 1000,
           "rangeStart": 25,
@@ -452,7 +452,7 @@
         },
         {
           "index": 1,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/seedance-2.0--002-1997-3517-530638d67ff2.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/seedance-2.0--002-1997-3517-530638d67ff2.json.gz",
           "relativePath": "chunks/seedance-2.0/002-1997-3517-530638d67ff2.json.gz",
           "itemCount": 1000,
           "rangeStart": 1997,
@@ -464,7 +464,7 @@
         },
         {
           "index": 2,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/seedance-2.0--003-3518-4851-e4e3649dcc6e.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/seedance-2.0--003-3518-4851-e4e3649dcc6e.json.gz",
           "relativePath": "chunks/seedance-2.0/003-3518-4851-e4e3649dcc6e.json.gz",
           "itemCount": 1000,
           "rangeStart": 3518,
@@ -476,7 +476,7 @@
         },
         {
           "index": 3,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/seedance-2.0--004-4852-6336-de3ea0a1f595.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/seedance-2.0--004-4852-6336-de3ea0a1f595.json.gz",
           "relativePath": "chunks/seedance-2.0/004-4852-6336-de3ea0a1f595.json.gz",
           "itemCount": 1000,
           "rangeStart": 4852,
@@ -488,7 +488,7 @@
         },
         {
           "index": 4,
-          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-6e2161b8160ec7b2/seedance-2.0--005-6337-7628-a6d07d740633.json.gz",
+          "path": "https://github.com/lucky-asd/youmind-shortcuts-data/releases/download/data-v2-5987c1b419e37a17/seedance-2.0--005-6337-7628-a6d07d740633.json.gz",
           "relativePath": "chunks/seedance-2.0/005-6337-7628-a6d07d740633.json.gz",
           "itemCount": 976,
           "rangeStart": 6337,
@@ -502,7 +502,7 @@
     }
   ],
   "totals": {
-    "rawBytes": 89312647,
-    "gzipBytes": 26724492
+    "rawBytes": 89350408,
+    "gzipBytes": 26725490
   }
 }
